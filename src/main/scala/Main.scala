@@ -8,7 +8,7 @@ object hello {
     println("logical or of (a||b ) = " +(a|b))
     print(isPresent, c)
 
-    var result=add(2,5)
+    var result=add(2,6)
     println("Addititon of x and y is : "+ result)
   }
 
